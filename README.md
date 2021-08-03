@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rikkizgaste
+- 👋 Hi, I’m Mikas
 - 👀 I’m interested in Python challenges
 - 🌱 I’m currently learning Python code
 - 💞️ I’m looking to collaborate on Python projects
