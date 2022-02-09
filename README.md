@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikas
 - 👀 I’m interested in Python challenges
-- 🌱 I’m currently learning Python code
+- 🌱 I’m always searching for and learning new code
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ...
 
