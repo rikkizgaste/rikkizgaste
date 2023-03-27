@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mikas
-- 👀 I’m interested in Python challenges
+- 👀 I’m interested in FrontEnd, Python and BigData challenges
 - 🌱 I’m always searching for and learning new code
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
 
 <!---
